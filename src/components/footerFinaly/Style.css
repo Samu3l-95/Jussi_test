@@ -1,0 +1,19 @@
+.container .copyright {
+    padding: 50px 0;
+}
+.container .copyright .pull-right {
+    float: right;
+    text-align: right;
+}
+.container .copyright .pull-right ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.container .copyright .pull-right ul li {
+    display: inline;
+    margin-right: 10px;
+}
+.container .copyright .pull-right ul li:last-child {
+    margin-right: 0;
+}

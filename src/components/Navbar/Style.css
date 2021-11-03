@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+
+
+.Navbar {
+    background-color: black;
+}
+
+.headerLinks {
+    color: black;
+    font-family: 'Barlow', sans-serif;
+}
+
+.me-2 {
+    border-radius: 20px;
+}
+
+FormControl::placeholder {
+    color: red;
+}
+
+.Carrinho {
+    width: 20px;
+    height: 20px;
+    display: flex;
+    margin-top: 10px;
+
+}
+

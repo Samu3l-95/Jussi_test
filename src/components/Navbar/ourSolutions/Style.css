@@ -1,0 +1,62 @@
+.container h2 {
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-family: 'Barlow', sans-serif;
+    margin: 0 0 30px;
+}
+.container .card {
+    width: 241px !important;
+    margin-right: 58px;
+}
+.container .card:last-child {
+    margin-right: 0;
+}
+.container .card .product {
+    background: #f2f2f2;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    margin-bottom: 50px;
+}
+.container .card .product p {
+    margin: auto;
+    font-size: 32px;
+    line-height: 38px;
+    text-transform: uppercase;
+    font-family: 'Barlow', sans-serif;
+}
+.container .card .card-title {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Barlow', sans-serif;
+}
+.container .card .card-text h4 {
+    font-size: 12px;
+    line-height: 18px;
+    font-family: 'Barlow', sans-serif;
+    color: #ee0e7d;
+}
+.container .card .card-text ul {
+    padding: 0 17px;
+}
+.container .card .card-text ul li {
+    color: #5b5b5b;
+    font-size: 12px;
+    line-height: 18px;
+}
+.container .card .btn-success {
+    width: 209px;
+    height: 48px;
+    background-color: #03ffa5 !important;
+    border-radius: 6px !important;
+    border-color: #03ffa5 !important;
+    color: #000;
+    font-size: 16px;
+    line-height: 24px;
+}
+.container .card .btn-success:hover {
+    opacity: 0.8;
+}

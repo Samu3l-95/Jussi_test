@@ -1,0 +1,43 @@
+.contactEmail {
+    color: #fff;
+    text-align: center;
+    padding: 130px 0;
+}
+
+.contactEmail h2 {
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 40px;
+    width: 676px;
+    margin: 0 auto 30px;
+    font-family: 'Barlow', sans-serif;
+}
+
+.contactEmail h5 {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: normal;
+}
+
+.contactEmail a {
+    font-size: 32px;
+    line-height: 24px;
+    font-weight: normal;
+    color: #fff;
+}
+
+.InputText {
+    background-color: black;
+    border: black;
+}
+
+.buttonEmail {
+    background-color: black;
+    border: black;
+    color: #03ffa5;
+}
+
+.InputMb3 {
+    width: 600px;
+    border-bottom: 1px solid #03FFA5;
+}
